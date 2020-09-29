@@ -1,5 +1,5 @@
 # *Sonic Conquest*
-*Sonic Conquest* is a soundscape project created by Jason Henriquez for the Composing Digital Media (ENGCMP 0610) class at the University of Pittsburgh.
+*Sonic Conquest* is a soundscape project created by Jason Henriquez for the Fall 2020 Composing Digital Media (ENGCMP 0610) course at the University of Pittsburgh.
 ## Synopsis
 Pittsburgh in 2031 becomes the fourth autonomous zone to have been taken by the Black liberation movement. Black student Mandy Landas & white student Tom Marden are studying on the new soundproof floor of the Floyd (formerly Hillman) Library when "sonic disturbances" suddenly kill hundreds of thousands of Pittsburghers.  
 
